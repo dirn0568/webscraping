@@ -1,0 +1,2 @@
+//*[@id="today_main_news"]/div[2]/div/div[1]/a[1]/img
+//*[@id="today_main_news"]/div[2]/div/div[1]/a[2]
